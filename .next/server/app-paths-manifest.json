@@ -1,6 +1,6 @@
 {
   "/page": "app/page.js",
   "/tokenomics/page": "app/tokenomics/page.js",
-  "/contracts/page": "app/contracts/page.js",
-  "/docs/page": "app/docs/page.js"
+  "/docs/page": "app/docs/page.js",
+  "/contracts/page": "app/contracts/page.js"
 }
