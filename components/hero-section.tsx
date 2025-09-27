@@ -437,11 +437,11 @@ export function HeroSection() {
         <Header />
       </div>
 
-      <div className="relative z-10 space-y-4 md:space-y-5 lg:space-y-6 mb-6 md:mb-7 lg:mb-9 max-w-md md:max-w-[500px] lg:max-w-[588px] mt-16 md:mt-[120px] lg:mt-[160px] px-4">
+      <div className="relative z-10 space-y-4 md:space-y-5 lg:space-y-6 mb-6 md:mb-7 lg:mb-9 max-w-2xl md:max-w-4xl lg:max-w-5xl mt-16 md:mt-[120px] lg:mt-[160px] px-4">
     <h1 className="text-foreground text-3xl md:text-4xl lg:text-6xl font-semibold leading-tight">
       Lightning Protocol
     </h1>
-    <p className="text-muted-foreground text-base md:text-base lg:text-lg font-medium leading-relaxed max-w-2xl mx-auto">
+    <p className="text-muted-foreground text-base md:text-lg lg:text-xl font-medium leading-relaxed max-w-5xl mx-auto">
       A decentralized social layer for data incentivization. Drop-in NPM SDK + open EIP that lets any commerce app pay users an on-chain "data dividend" when first-party data is monetized, backed by consent proofs, encrypted receipts on Lighthouse, Sybil-resistant identities via World ID, and VC-anchored permissions via Self Protocol.
     </p>
       </div>
